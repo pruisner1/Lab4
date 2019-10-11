@@ -1,0 +1,19 @@
+﻿'Lab4werhalfwaythere.exe' (Win32): Loaded 'C:\Users\PRUISNER1\source\repos\Lab4werhalfwaythere\Debug\Lab4werhalfwaythere.exe'. Symbols loaded.
+'Lab4werhalfwaythere.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'Lab4werhalfwaythere.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'Lab4werhalfwaythere.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'Lab4werhalfwaythere.exe' (Win32): Loaded 'C:\Windows\SysWOW64\apphelp.dll'. 
+'Lab4werhalfwaythere.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'Lab4werhalfwaythere.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'Lab4werhalfwaythere.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x3f64 has exited with code 0 (0x0).
+'Lab4werhalfwaythere.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'Lab4werhalfwaythere.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'Lab4werhalfwaythere.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+'Lab4werhalfwaythere.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. 
+'Lab4werhalfwaythere.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. 
+'Lab4werhalfwaythere.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. 
+'Lab4werhalfwaythere.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. 
+The thread 0x44ec has exited with code 0 (0x0).
+The thread 0x337c has exited with code 0 (0x0).
+The program '[18376] Lab4werhalfwaythere.exe' has exited with code 0 (0x0).
